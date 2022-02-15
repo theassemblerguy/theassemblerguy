@@ -11,6 +11,7 @@ Thanks for checking me out! I'm a blind hobby programmer who likes to code direc
 -	Python
 # But most importantly
 The x86 assembler languages (especially MASM style)
+
 However, I have my very own, heavily modified assembler in the meantime actually.
 
 # Other skills
